@@ -1,0 +1,11 @@
+C:\Users\Ghula\Documents\UltronPOSCR\bin\Debug\UltronPOSCR.exe.config
+C:\Users\Ghula\Documents\UltronPOSCR\bin\Debug\UltronPOSCR.exe
+C:\Users\Ghula\Documents\UltronPOSCR\bin\Debug\UltronPOSCR.pdb
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.csproj.AssemblyReference.cache
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.Main.resources
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.Properties.Resources.resources
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.csproj.GenerateResource.cache
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.csproj.CoreCompileInputs.cache
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.exe
+C:\Users\Ghula\Documents\UltronPOSCR\obj\Debug\UltronPOSCR.pdb
